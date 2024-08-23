@@ -1,0 +1,34 @@
+{
+  "name": "uxlsam--run",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "react": "18.1.0",
+    "react-dom": "18.1.0",
+    "@syncfusion/ej2-icons": "26.2.10",
+    "@syncfusion/ej2-base": "26.2.10",
+    "@syncfusion/ej2-react-base": "26.2.10",
+    "@syncfusion/ej2-grids": "26.2.10",
+    "@syncfusion/ej2-react-grids": "26.2.10",
+    "@syncfusion/ej2-dropdowns": "26.2.10",
+    "@syncfusion/ej2-react-dropdowns": "26.2.10",
+    "@syncfusion/ej2-inputs": "26.2.10",
+    "@syncfusion/ej2-react-inputs": "26.2.10",
+    "@syncfusion/ej2-data": "26.2.10",
+    "@syncfusion/ej2-lists": "26.2.10",
+    "@syncfusion/ej2-documenteditor": "26.2.10",
+    "@syncfusion/ej2-buttons": "26.2.10",
+    "@syncfusion/ej2-splitbuttons": "26.2.10",
+    "@syncfusion/ej2-navigations": "26.2.10",
+    "@syncfusion/ej2-react-popups": "26.2.10"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "devDependencies": {
+    "react-scripts": "latest"
+  }
+}
